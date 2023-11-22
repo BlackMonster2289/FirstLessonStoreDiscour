@@ -51,7 +51,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/possibilityOut2"
+        android:id="@+id/balanceOut"
         android:layout_width="359dp"
         android:layout_height="60dp"
         android:layout_marginTop="216dp"
